@@ -8,7 +8,7 @@
 <h2>About me</h2>
 🛡️ A passionate IT - cyber security student<br>
 👩‍💻 Currently learning Dart & python<br>
-💜 Interested in cyber security, robotics, UX/UI & graphic design<br>
+💜 Interested in cyber security, robotics, UX/UI, game development & graphic design<br>
 ♟️ Chess player<br>
 🎮 Nintendo enthusiast<br>
 📸 I take/edit pictures for fun<br>
