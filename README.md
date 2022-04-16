@@ -8,10 +8,10 @@
 <h2>About me</h2>
 🛡️ A passionate IT - cyber security student<br>
 👩‍💻 Currently learning Dart & python<br>
-💙 Interested in cyber security, robotics, UX/UI & graphic design<br>
+💜 Interested in cyber security, robotics, UX/UI & graphic design<br>
 ♟️ Chess player<br>
-🎮  Nintendo enthusiast<br>
-📷 I take/edit pictures for fun<br>
+🎮 Nintendo enthusiast<br>
+📸 I take/edit pictures for fun<br>
 
 <h2>Tools and Languages</h2>
 <a href="https://img.shields.io/badge/-Flutter-752ce0?logo=Flutter&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-Flutter-752ce0?logo=Flutter&logoColor=white&style=for-the-badge"/> </a>
