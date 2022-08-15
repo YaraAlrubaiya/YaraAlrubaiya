@@ -10,8 +10,6 @@
 👩‍💻 Currently learning Dart & Python<br>
 💜 Interested in cybersecurity, robotics, UX/UI, game development & graphic design<br>
 ♟️ Chess player<br>
-🎮 Nintendo enthusiast<br>
-📸 I take/edit pictures for fun<br>
 
 <h2>Tools and Languages</h2>
 <a href="https://img.shields.io/badge/-Flutter-752ce0?logo=Flutter&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-Flutter-752ce0?logo=Flutter&logoColor=white&style=for-the-badge"/> </a>
